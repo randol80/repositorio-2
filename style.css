@@ -1,0 +1,23 @@
+h1{
+    background-color: rgba(117, 177, 177, 0.377);
+    text-align: center;
+}
+.myButton {
+   font-size: 17px;
+   font-weight: bold;
+   font-style: italic;
+   background: #06b723;
+   color: #f0e5e5;
+   border: 4px inset #0d0c0c;
+   border-radius: 6px;
+   padding: 10px 15px;
+   letter-spacing: 1px;
+}
+
+.myButton:hover {
+   background: #7ed780;
+   color: #100f0f;
+}
+body{
+    background-color: rgba(248, 5, 5, 0.267);
+}
